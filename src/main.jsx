@@ -6,7 +6,7 @@ function App() {
     <main>
       <h1>Vite SPA Fixture</h1>
       <p>Rendered in the browser by React.</p>
-      <p id="fixture-marker">fixture marker: vite-spa-r0</p>
+      <p id="fixture-marker">fixture marker: vite-spa-r1</p>
     </main>
   );
 }
